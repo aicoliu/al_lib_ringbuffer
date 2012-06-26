@@ -1,3 +1,6 @@
+rbtest
+bin/*
+
 # Compiled Object files
 *.slo
 *.lo
