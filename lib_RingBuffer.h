@@ -1,6 +1,6 @@
 
 #define RB_BUFFER_SIZE  128  //(4*1024)  /*数据空间大小*/
-#define RB_Max_Items    4        /*最多可以保存多少条记录*/
+#define RB_Max_Items    4        /*最多可以保存多少条记录，每条记录最大长度RB_BUFFER_SIZE为*/
 #define RB_Status_Free  0
 #define RB_Status_Busy  1
 /**
